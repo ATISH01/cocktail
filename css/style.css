@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bitter:ital,wght@1,600&family=Dongle&family=Poppins&family=Shizuru&display=swap');
+
+
+#body{
+    padding: 3px;
+    background-color: aquamarine;
+}
+#div{
+    font-family: 'Bitter';
+    background-image: linear-gradient(black, red);
+    height: 100px;
+    color: white;
+    
+}
+#img{
+    width: 5%;
+}
